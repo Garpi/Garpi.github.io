@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Próxima meta</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css">
+    <link rel="stylesheet" type="text/css" href="resources/css/mystyles.css">
+  </head>
+
+  <body>
+    <!-- Empieza la nav bar -->
+    <nav class="navbar is-fixed-top">
+    <!-- Brand -->
+    <div class="navbar-brand">
+      <a class="navbar-item" href="http://www.proximameta.com">
+        <div class="icon is-medium">
+        <span class="icon has-text-danger">
+          <i class="fa fa-2x fa-flag"></i>
+        </span>
+        </div>
+      </a>
+    </div>
+    <!--Menu derecha -->
+    <div class="navbar-end">
+        <div class="navbar-menu">
+          <a class="navbar-item" href="/blog">
+            Blog
+          </a>
+          <a class="navbar-item" href="/contacto">
+            Recursos
+          </a>
+          <a class="navbar-item" href="/recursos">
+            Misión
+          </a>
+          <a class="navbar-item" href="/recursos">
+            Sobre mí
+          </a>
+          <a class="navbar-item" href="/recursos">
+            Contacto
+          </a>
+          <div class="navbar-item">
+            <div class="field is-grouped">
+              <p class="control">
+                <a class="button is-info" href="suscripción">
+                  <span class="icon">
+                    <i class="fa fa-envelope"></i>
+                  </span>
+                  <span>Newsletter</span>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Termina el menu derecha -->
+    </div>
+  </nav>
+<!-- presentación de la web -->
+  <section class="hero is-medium">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <p class="title is-1 is-spaced">
+          Bienvenido a "Próxima Meta"
+        </p>
+        <p class="subtitle is-3">
+          Cada persona tiene sus propias metas, ¿cuáles son las tuyas?
+        </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!-- imagen de cabecera -->
+<img src="resources/images/mountain.jpg" alt="">
+
+  <section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column">
+          <div class="card">
+            <div class="card-content">
+              <p class="title is-3 is-spaced">¡Hola! Soy Juan Pablo</p>
+              <p class="subtitle has-text-justified">Siempre he sido un "culo inquieto". Soy
+                partidario de que es mejor estar ocupado antes que
+                estar aburrido. Por eso, procuro tener una meta siempre en mente
+                 y me esfuerzo al máximo para conseguirla.</p>
+              <p class="subtitle has-text-justified">Aquí, en  <em>Próxima Meta</em>,
+                quiero compartir mi forma de ver la vida contigo. Tengo la
+                esperanza de que algo de lo que aquí leas te ayude a cumplir
+                tu próxima meta. Aunque sea mínimamente. </p>
+              <p class="subtitle has-text-justified">
+                 Así que, tanto si aún no tienes claro tu próximo objetivo,
+                 como si tú tampoco paras quieto, <strong> me encantaría
+                 acompañarte en tu camino a la cima. </strong> </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="column">
+          <p class="title has-text-centered">¿Qué econtrarás aquí?</p>
+
+          <div class="box">
+            <article class="media">
+              <div class="media-left">
+                <figure class="image is-64x64">
+                  <div class="icon is-medium">
+                  <span class="icon has-text-dark">
+                    <i class="fa fa-2x fa-font"></i>
+                  </span>
+                  </div>
+                </figure>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p class="title is-4">Publicaciones con contenido propio</p>
+                </div>
+              </div>
+            </article>
+          </div>
+
+          <div class="box">
+            <article class="media">
+              <div class="media-left">
+                <figure class="image is-64x64">
+                  <div class="icon is-medium">
+                  <span class="icon has-text-info">
+                    <i class="fa fa-2x fa-quote-left"></i>
+                  </span>
+                  </div>
+                </figure>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p class="title is-4">Recomendaciones</p>
+                </div>
+              </div>
+            </article>
+          </div>
+
+          <div class="box">
+            <article class="media">
+              <div class="media-left">
+                <figure class="image is-64x64">
+                  <div class="icon is-medium">
+                  <span class="icon has-text-danger">
+                    <i class="fa fa-2x fa-quora"></i>
+                  </span>
+                  </div>
+                </figure>
+              </div>
+              <div class="media-content">
+                <div class="content">
+                  <p class="title is-4">Respuestas de Quora</p>
+                </div>
+              </div>
+            </article>
+          </div>
+
+    </div>
+  </section>
+
+
+<section class="section is-medium">
+  <div class="container has-text-justified is-medium">
+    <div class="content">
+      <p class="title is-4 is-spaced has-text-centered">
+        Déjame echarte una mano
+      </p>
+      <div class="subtitle">
+        <p>En Próxima Meta encontrarás todo tipo de contenido. Pero todos tienen un único objetivo: Ayudarte a cumplir tus metas</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  </body>
+</html>
