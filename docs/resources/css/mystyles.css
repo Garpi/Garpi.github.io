@@ -1,0 +1,16 @@
+.bg-img {
+        background-image: url(../images/mountain.jpg) ;
+        background-position: center;
+        background-repeat:  no-repeat;
+        background-attachment: fixed;
+        background-size:  cover;
+        background-color: #999;
+        width: 960px;
+        height: 700px;
+ }
+
+
+ <div class="icon is-large is-spaced">
+   <span class="icon has-text-info">
+     <i class="fa fa-4x fa-font"></i>
+   </span>
