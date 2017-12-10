@@ -133,7 +133,7 @@
               </div>
               <div class="media-content">
                 <div class="content">
-                  <p class="title is-4">Recomendaciones</p>
+                  <p class="title is-4">Recomendaciones de libros, cursos...</p>
                 </div>
               </div>
             </article>
@@ -152,7 +152,7 @@
               </div>
               <div class="media-content">
                 <div class="content">
-                  <p class="title is-4">Respuestas de Quora</p>
+                  <p class="title is-4">Comentarios sobre respuestas de Quora</p>
                 </div>
               </div>
             </article>
